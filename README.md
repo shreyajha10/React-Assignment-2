@@ -6,8 +6,8 @@ This is a simple Online Library System built using React, React Router, and Redu
 - Home Page: Welcomes users and displays popular book categories.
  - Browse Books: Browse books by category, search for books by title or author, and view detailed information.
 - Book Details: View more details of a selected book, such as title, author, and description.
-- Add Book: A form to add a new book to the library (under development).
-- NotFound Page: A fallback page for invalid routes
+- Add Book: A form to add a new book..
+- NotFound Page: A fallback page for invalid routes.
 
 ## Installation and Setup Instructions
 
