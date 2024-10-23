@@ -1,6 +1,5 @@
 # React-Assignment-2
  
-Online Library System
 This is a simple Online Library System built using React, React Router, and Redux. The application allows users to browse books, search for them by title or author, filter books by category, and view detailed information about each book.
 
 ## Features
@@ -36,6 +35,7 @@ To run this application on your local machine, follow these steps:
 
  ## Technologies Used
 - React
+- React Router
 - Redux
 - Vite
 - JavaScript
